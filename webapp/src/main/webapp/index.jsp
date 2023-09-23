@@ -1,10 +1,10 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning in Genztech classes</h1>
+    <h1>New user Register for DevOps Learning in Genztech</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name of your project</b></label>
+    <label for="Name"><b>Enter Name of your project y</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
